@@ -1,1 +1,2 @@
 inference/model/* filter=lfs diff=lfs merge=lfs -text
+inference/tokenizer/* filter=lfs diff=lfs merge=lfs -text
