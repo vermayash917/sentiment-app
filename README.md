@@ -1,6 +1,3 @@
-Here’s a fully original, plagiarism-free, professional README.md template for your Full Stack Sentiment Analysis App that you can paste directly into your GitHub repository.
-It assumes your stack includes React (Vercel) for frontend, FastAPI (Railway) for backend, and MongoDB Atlas for database.
-
 ⸻
 
 
