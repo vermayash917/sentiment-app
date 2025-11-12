@@ -72,8 +72,8 @@ Database (MongoDB Atlas)
 
 1️⃣ Clone Repository
 
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/vermayash917/sentiment-app.git
+cd sentiment-app
 
 2️⃣ Backend Setup (FastAPI)
 
